@@ -2,25 +2,29 @@
 
 Welcome to my Python learning repository!
 
-## 📚 Topics Covered
+## 📂 Repository Structure
 
-- Python Basics
-- Variables & Data Types
-- Input / Output
+### 📘 01_Basics
+- Hello World
+- Variables
+- Input & Output
+- Operators
+- Type Casting
+
+### 🚧 Upcoming Topics
 - Conditional Statements
 - Loops
 - Functions
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- File Handling (Coming Soon)
-- Object-Oriented Programming (Coming Soon)
+- Collections
+- File Handling
+- Object-Oriented Programming
+- Mini Projects
 
 ## 🎯 Goal
 
-This repository documents my Python learning journey through hands-on practice programs.
+This repository documents my Python learning journey through hands-on practice and problem-solving.
 
 ---
+⭐ More programs will be added regularly.
 ⭐ Feel free to explore my code and follow my progress!# python-practice
 A collection of Python programs and practice exercises as I learn Python.
